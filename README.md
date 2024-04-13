@@ -11,6 +11,3 @@ The target feature is Class
 ## Algorithm used
 Isolation Forest.
 Algorithm used for anomaly detection. This is needed as per our requirement.
-
-## Algorithm used
-Isolation forest is used. 
